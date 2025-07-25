@@ -3050,6 +3050,6 @@
 3050 | 0x0BE9 | 00 | ☐ Unknown data
 3051 | 0x0BEA | 00 | ☐ Unknown data
 3052 | 0x0BEB | 00 | ☐ Unknown data
-3053 | 0x0BEC | 00 | ☐ Unknown data
-3054 | 0x0BED | 00 | ☐ Unknown data
-3055 | 0x0BEE | 00 | ☐ Unknown data
+3053 | 0x0BEC | 00 | ☒ End of file: Save data footer? (Byte 1 of 3) — Possible 3-byte integer, e.g. 740861 (0x0B4D9D)
+3054 | 0x0BED | 00 | ☒ End of file: Save data footer? (Byte 2 of 3)
+3055 | 0x0BEE | 00 | ☒ End of file: Save data footer? (Byte 3 of 3)
